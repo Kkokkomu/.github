@@ -13,12 +13,12 @@
 ### Back-End
 |이름|역할|이메일|기술
 |----|---|---|---|
-|[정구연](https://github.com/gouyeonch)|Server|rlrlfhtm5@gmail.com|Spring-Boot
+|[정구연](https://github.com/gouyeonch)|Server|gouyeonch@naver.com|Spring-Boot
 
 ### AI
 |이름|역할|이메일|기술
 |----|---|---|---|
-|[이상경](https://github.com/SangGank)|AI|[rlrlfhtm5@gmail.com](https://github.com/SangGank)|PyTorch
+|[이상경](https://github.com/SangGank)| AI|leesk9663@gmail.com|PyTorch
 
 
 # 🛠️ Tech Stack 🛠️
